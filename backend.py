@@ -10,9 +10,9 @@ headers = {
 
 tokens = {
 	
-				'APP_KEY':''
-				'APP_SECRET':''
-				'OAUTH_TOKEN':''
+				'APP_KEY':'',
+				'APP_SECRET':'',
+				'OAUTH_TOKEN':'',
 				'OAUTH_TOKEN_SECRET':''
 	}
 
